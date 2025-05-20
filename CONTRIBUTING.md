@@ -7,7 +7,7 @@ Please read through this document before submitting any issues or pull requests 
 information to effectively respond to your bug report or contribution.
 
 
-## 📋 Table of Contents 📋
+## �� Table of Contents ��
 
 - [Reporting Bugs and Feature Requests](#reporting-bugs-and-feature-requests)
 - [Contributing via Pull Requests](#contributing-via-pull-requests)

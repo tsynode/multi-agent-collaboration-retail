@@ -1,0 +1,9 @@
+{"customer_id": "1", "item_id": "1", "item_desc":"checkout", "staffing": "3", "utilization":"85", "essential":"True"}
+{"customer_id": "1", "item_id": "2", "item_desc":"apparel", "staffing": "2", "utilization":"40", "essential":"False"}
+{"customer_id": "1", "item_id": "3", "item_desc":"electronics", "staffing": "2", "utilization":"75", "essential":"True"}
+{"customer_id": "1", "item_id": "4", "item_desc":"customer service", "staffing": "1", "utilization":"95", "essential":"True", "peak":"True"}
+{"customer_id": "2", "item_id": "1", "item_desc":"checkout", "staffing": "4", "utilization":"70", "essential":"True"}
+{"customer_id": "2", "item_id": "2", "item_desc":"apparel", "staffing": "3", "utilization":"30", "essential":"False"}
+{"customer_id": "2", "item_id": "3", "item_desc":"electronics", "staffing": "2", "utilization":"90", "essential":"True", "peak":"True"}
+{"customer_id": "2", "item_id": "4", "item_desc":"customer service", "staffing": "2", "utilization":"65", "essential":"True"}
+{"customer_id": "2", "item_id": "5", "item_desc":"home goods", "staffing": "1", "utilization":"20", "essential":"False"}
